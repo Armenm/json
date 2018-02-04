@@ -10,35 +10,11 @@
   },
   {
     "id": 2,
-    "title": "Butter Knife",
-    "subtitle": "Bind Android views and callbacks to fields and methods.",
-    "sourceUrl": "https://github.com/JakeWharton/butterknife",
-    "websiteUrl": "http://jakewharton.github.io/butterknife/",
-    "thumbnailUrl": "http://jakewharton.github.io/butterknife/static/logo.png"
-  },
-  {
-    "id": 3,
     "title": "Glide",
     "subtitle": "An image loading and caching library for Android focused on smooth scrolling.",
     "sourceUrl": "https://github.com/bumptech/glide",
     "websiteUrl": "https://bumptech.github.io/glide/",
     "thumbnailUrl": "https://github.com/bumptech/glide/blob/master/static/glide_logo.png?raw=true"
-  },
-  {
-    "id": 4,
-    "title": "Butter Knife",
-    "subtitle": "Bind Android views and callbacks to fields and methods.",
-    "sourceUrl": "https://github.com/JakeWharton/butterknife",
-    "websiteUrl": "http://jakewharton.github.io/butterknife/",
-    "thumbnailUrl": "http://jakewharton.github.io/butterknife/static/logo.png"
-  },
-  {
-    "id": 5,
-    "title": "EventBus",
-    "subtitle": "Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.",
-    "sourceUrl": "https://github.com/greenrobot/EventBus",
-    "websiteUrl": "http://greenrobot.org/eventbus/",
-    "thumbnailUrl": "https://github.com/greenrobot/EventBus/blob/master/EventBus-Publish-Subscribe.png"
   },
   {
     "id": 6,
@@ -56,6 +32,25 @@
     "websiteUrl": "http://realm.io/",
     "thumbnailUrl": "https://realm.io/assets/svg/general_logo.svg"
   },
+  {
+    "id": 3,
+    "title": "Butter Knife",
+    "subtitle": "Bind Android views and callbacks to fields and methods.",
+    "sourceUrl": "https://github.com/JakeWharton/butterknife",
+    "websiteUrl": "http://jakewharton.github.io/butterknife/",
+    "thumbnailUrl": "http://jakewharton.github.io/butterknife/static/logo.png"
+  },
+  
+  {
+    "id": 5,
+    "title": "EventBus",
+    "subtitle": "Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.",
+    "sourceUrl": "https://github.com/greenrobot/EventBus",
+    "websiteUrl": "http://greenrobot.org/eventbus/",
+    "thumbnailUrl": "https://github.com/greenrobot/EventBus/raw/master/EventBus-Publish-Subscribe.png"
+  },
+  
+  
   {
     "id": 8,
     "title": "Picasso",
